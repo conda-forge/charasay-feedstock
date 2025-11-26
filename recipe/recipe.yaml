@@ -26,7 +26,7 @@ tests:
 about:
   license: MIT
   license_file:
-    - LICENSE
+    - license
     - THIRDPARTY.yml
   summary: The future of cowsay! Colorful characters saying something
   homepage: https://github.com/latipun7/charasay

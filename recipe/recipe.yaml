@@ -10,7 +10,7 @@ source:
   sha256: a2ebd4943abe8c8d39486ca99c354c5113380a9dffe4a3b3c2530c65011c7bd8
 
 build:
-  number: 0
+  number: 1
 
 requirements:
   build:
@@ -26,7 +26,7 @@ tests:
 about:
   license: MIT
   license_file:
-    - LICENSE
+    - license
     - THIRDPARTY.yml
   summary: The future of cowsay! Colorful characters saying something
   homepage: https://github.com/latipun7/charasay

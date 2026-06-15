@@ -1,5 +1,5 @@
 context:
-  version: 3.3.0
+  version: "3.3.1"
 
 package:
   name: charasay
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/latipun7/charasay/archive/v${{ version }}.tar.gz
-  sha256: a2ebd4943abe8c8d39486ca99c354c5113380a9dffe4a3b3c2530c65011c7bd8
+  sha256: d684ac2a43b738e39919051918e4f9d8d5af0b63d79d8afcb248b6228f21c0e0
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
